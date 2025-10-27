@@ -1,0 +1,24 @@
+Learning Git 
+  What is Git?
+    .Git es una tecnología para seguir los cambios de tu proyecto.
+    .Ayuda a multiples personas a colaborar en un proyecto.
+    .Un proyecto controlado por Git consiste en un folder con archivos dentro y Git
+     rastrea los cambios que se han hecho en los archivos del proyecto.
+    .Git a versión control system.
+    .Git puede rastrear cambios en todo tipo de archivos.
+    .Git fue creado por Linus Torvads para controlar las versiones del trabajo realizado 
+     en un gran proyecto de desarrollo de software llamado kernel de Linux.
+
+Example Book Project
+  .Supongamos que estas escribiendo un libro y quieres usar git para controlar las
+   versiones de tu proyecto de libro,quieres hacer cambios los días Monday,Wednesday and 
+   Friday y guardas una versión para cada uno de esos días.Eso significa que tendras 
+   almenos 3 versiones de tu proyecto.
+   Una versión de tu proyecto en Git es llamado commit.
+   
+
+
+
+
+
+
