@@ -15,8 +15,39 @@ Example Book Project
    Friday y guardas una versión para cada uno de esos días.Eso significa que tendras 
    almenos 3 versiones de tu proyecto.
    Una versión de tu proyecto en Git es llamado commit.
-   
+  .Git permite comparar cualquiera de los commit(versiones guardadas de tu proyecto) el 
+   uno al otro y comparar los cambios entre las diferentes versiones.
+  .Git permite trabajar a varias personas en un mismo proyecto al mismo tiempo y combinar
+   nuestro trabajo cuando este listo.
+    .For example:
+      Yo puedo trabajar en el capítulo 1 y mi compañero en el capítulo 2 y cuando
+      este listo combinar nuestro trabajo.
 
+The Graphical User Interface and the Command Line
+  .Existen 2 principales caminos para interactuar con una computadora
+    1)Graphical User Interface(GUI)
+      .Conjunto de representaciones gráficas de los objectos(icons,buttons,etc).
+      .Puedes pensar en ello como la interfaz de apuntar y hacer click.
+    2)Command Line
+      .Conocida como command line interface(CLI),terminal or shell.
+      .Lugar donde tu escribes text-based comandos que interactuan con tu computadora.
+      .Por defecto para trabajar con Git es mediante la línea de comandos.
+
+Opening a Command Line Window
+  .Para usar la linea de comandos tu debes abrir una ventana de linea de comandos usando 
+   una aplicación de linea de comandos.
+  .Estaras en un directorio en particular al que llamaremos directorio actual(current
+   directory).
+  .Directory es similar a folder.
+  .Cuando tu abres una ventana de linea de comando,habrá un simbolo del sistema en la 
+   esquina superior izquierda.El simbolo del sistema indica la ubicación del directorio
+   en la linea de comando(current directory). 
+  .Cuando habres una ventana de linea de comandos,la ubicación del directorio comienza
+   en el directorio del usuario actual(home folder).
+  .Nosotros usamos el signo de dollar($)en el final del simbolo del sistema:
+    For example:  
+          borges@debian:~$
+ 
 
 
 
