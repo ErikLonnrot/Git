@@ -1,0 +1,39 @@
+Learning Git
+A hands-On and Visual Guide to the Basics of Git (Anna Skoulikari)
+
+1) Git and the Command Line
+  
+What is Git?
+  .Git es una tecnología que permite realizar los seguimientos de los cambios de un 
+   proyecto.
+  .Ayuda a multiples personas a colaborar en un proyecto.
+  .Git es un sistema de control de versiones(version control system).
+  .Creado por Linus Torvalds (the Linux kernel).
+  .Diseñado originalmente para usarse en la linea de comandos(Command Line).
+
+Example Book Project 1-1
+  .Imagina que estas escribiendo un libro y quieres usar Git para controlar todos los
+   archivos del proyecto Libro.Supongamos que quieres guardar los combios del libro
+   los días Lunes,Miercoles y Viernes y deseas guardar una versión para cada uno de estos
+   días.Significa que tendras almenos 3 versiones del libro(A version of a project in 
+   Git is called commit).Git me permite comparar las versiones y que cambios se
+   realizaron entre estas versiones.
+  .Supongamos que decidimos trabajar en mi proyecto con mi coauthor.Git me permite 
+   trabajar en el mismo proyecto y en el mismo tiempo además de poder combinar nuestro
+   trabajo cuando este listo.Por ejemplo si yo trabajo en el capítulo 1 y mi coauthor en 
+   el capítulo 2,cuanto este listo combinar nuestro trabajo.
+  .Si contratamos a un editor que revise el libro,también podra editar todos los capítulos
+   que hemos escrito,y podremos integrar esos cambios en la versión principal del libro.
+   Esto demuestra la utilidad de Git como herramienta de colaboración.
+   
+
+
+
+
+
+
+
+
+
+
+
