@@ -25,11 +25,29 @@ Example Book Project 1-1
   .Si contratamos a un editor que revise el libro,también podra editar todos los capítulos
    que hemos escrito,y podremos integrar esos cambios en la versión principal del libro.
    Esto demuestra la utilidad de Git como herramienta de colaboración.
-   
-
-
-
-
+  
+The Graphical User Interface and the Command Line
+  .Existen dos caminos para interactuar con una computadora:
+    1)The Graphical User Interface(GUI):
+      .Conjunto de representaciones gráficas de objetos(icons,buttons,etc).
+      .You can think of it as the point-and-click interface.
+    
+    2)The command line
+      .Conocido también como Command Line Interface(CLI),terminal or shell.
+      .A place where you can type text-based commands o interact with your computer.
+ 
+Opening a Command Line Window
+  .Debes abrir una ventana de linea de comando usando una aplicación de linea de
+   comandos.En cualquier momento dado,en una ventana de línea de comando,usted se 
+   encuentra en un directorio especifico,al que denominaremos 
+   directorio actual(current directory).
+  
+  .When you open a command line window there will be a command prompt in the upper-left
+  corner.El command prompt indica la ubicación del directorio(your current directory).
+  
+  .Al abrir una nueva ventana de línea de comandos,la ubicación del directorio 
+   comienza en el directorio del usuario actual(also known as the home folder)
+   representado por el simbolo de tilde(~).
 
 
 
