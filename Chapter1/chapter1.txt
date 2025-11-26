@@ -48,10 +48,25 @@ Opening a Command Line Window
   .Al abrir una nueva ventana de línea de comandos,la ubicación del directorio 
    comienza en el directorio del usuario actual(also known as the home folder)
    representado por el simbolo de tilde(~).
+  
+  .We use a dollar sign($) at the end of the command prompt,but this is just one 
+   example of how a command prompt may end.Your command prompt may end with the 
+   a different character or symbol.For example:
+     borges@debian:~$ 
 
+Executing Commands in the Command Line
+  .After the type a command,to execute it you have to press the Enter(Return) key.
+  .The directory location will be indicated before the dollar sign.
+      borges@debian:~/Desktop$ pwd
+      /home/borges/Desktop
 
+Command Output
+  .Some command produce output,and some don’t.
 
-
-
-
+Executing the firts command in the command line
+  .The firts command you will practice executing in the command line is the git version
+  command.
+    $ git version
+    git version 2.47.3
+  
 
