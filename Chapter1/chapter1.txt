@@ -68,5 +68,22 @@ Executing the firts command in the command line
   command.
     $ git version
     git version 2.47.3
-  
+
+Command Options and Arguments
+  .Options are settings that change the behavior of a command.And option follows a 
+   single dash(-) or a double dash(--).
+  .Arguements are values that provide information to the command.They will be denoted 
+   by angle brackets(< >),indicating that these items should be replaced with the
+   user-supplied values.Example:
+   
+   $ git commit -m "<message>"
+    
+    .Command: git commit
+    .Option : -m
+    .Argument: "<message>"
+
+
+
+
+
 
