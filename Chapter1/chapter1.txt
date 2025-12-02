@@ -82,8 +82,22 @@ Command Options and Arguments
     .Option : -m
     .Argument: "<message>"
 
-
-
+Clearing the Command Line
+  .After you've entered a lot of commands,the command line windows gets quite cluttered.
+  To clear the contents og the command line window,you can use the clear command.
+  
+  $ clear
+    -> Clear the command line window
+  
+Working with Directories
+  .When you first open the command line aplication you will start off in current user 
+  directory(your home folder),indicated by the tilde(~) in the command prompt.You can
+  also use the pwd command,which stands for "print working directory" to see the path
+  to the current directory.
+  
+  $ pwd
+    -> Show the path to the current directory
+    
 
 
 
