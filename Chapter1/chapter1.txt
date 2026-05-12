@@ -1,0 +1,62 @@
+Git and the Command Line
+ 
+What is Git?
+  .Git is a technology that can be used to track changes to a project and
+  help multiple people to collaborate on a project.
+  .Git a version control system.
+  .Created by Linus Torvalds to version control the work done on a large software
+  development project called the Linux kernel.
+  .Git can track changes to all sorts of files,it can be used for a wide variety 
+  of projects.
+
+Example Book Project 1-1
+  .Suppose I am writing a book.I make changes to the book on Monday,Wednesday and 
+  Friday,and save one version on each of those days.This means I have at least three
+  versions of my project.A version of a project in Git is called a commit.Git also 
+  allows me to compare any of those commits to one another to check what changed 
+  between the different versions.Git allows me and my coauthor to work on the same
+  project at the same time and combine our work when we are ready.
+ 
+The Graphical User Interface and Command Line
+  .The two main ways to interact with a computer
+    1)GUI:Graphical User Interface
+    2)The command line
+  
+  1)Graphical User Interface(GUI):
+    .The set of graphical representations of objects(icons,buttons,etc).
+    .Point-and-click interface.
+    
+  2)The Command Line
+    .Known as the command line interface(CLI),terminal or shell is the place where
+    you can type text-based commands to interact with your computer.
+
+Opening a Command Line Windows
+  .To use the command line,you must open a command line windows using a command
+  line application.At any given point in time,in a command line window,you are in one
+  particular directory,which we refer to as the current directory(directory same folder).
+  .When you open a command line window there will be a command prompt in the upper-left
+  corner.This is a short piece of the text whose exact contents will differ depending 
+  on your operating system and computer settings.
+  .The command prompt indicates the directory location in the command line(in othes 
+  words,your current directory).When you open a new command line window,the directory
+  location starts off at the current user directory(also known as the home folder),
+  which is represented by the tilde sign(~).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
