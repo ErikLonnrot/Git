@@ -42,6 +42,16 @@ Opening a Command Line Windows
   location starts off at the current user directory(also known as the home folder),
   which is represented by the tilde sign(~).
 
+Executing Commands in the Command Line
+  .The cursor that indicates where you will type commands.After you type a command,to
+  execute it you have to press the Enter(Return) key.
+
+Executing the firts command in the command line
+  .The firts command you will practice executing in the command line is the 
+  git version command.
+  
+  erik@debian13:~$ git version 
+  git version 2.47.3
 
 
 
@@ -56,6 +66,11 @@ Opening a Command Line Windows
 
 
 
+
+
+Words
+  .up-to-date version (versión actualizada)
+  
 
 
 
